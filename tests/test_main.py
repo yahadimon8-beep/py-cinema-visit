@@ -17,7 +17,7 @@ from app.main import cinema_visit
             "Tenet",
             'Cinema bar sold popcorn to Bob.\n'
             '"Tenet" started in hall number 1.\n'
-            'Bob is watching "Tenet".\n'
+            'Bob is watching Tenet.\n'
             '"Tenet" ended.\n'
             'Cleaner Anna is cleaning hall number 1.\n'
 
@@ -33,8 +33,8 @@ from app.main import cinema_visit
             'Cinema bar sold Coca-cola to Bob.\n'
             'Cinema bar sold popcorn to Alex.\n'
             '"Madagascar" started in hall number 5.\n'
-            'Bob is watching "Madagascar".\n'
-            'Alex is watching "Madagascar".\n'
+            'Bob is watching Madagascar.\n'
+            'Alex is watching Madagascar.\n'
             '"Madagascar" ended.\n'
             'Cleaner Anna is cleaning hall number 5.\n'
         ),
@@ -51,9 +51,9 @@ from app.main import cinema_visit
             'Cinema bar sold Coca-cola to Michael.\n'
             'Cinema bar sold popcorn to Monica.\n'
             '"Interstellar" started in hall number 3.\n'
-            'Susan is watching "Interstellar".\n'
-            'Michael is watching "Interstellar".\n'
-            'Monica is watching "Interstellar".\n'
+            'Susan is watching Interstellar.\n'
+            'Michael is watching Interstellar.\n'
+            'Monica is watching Interstellar.\n'
             '"Interstellar" ended.\n'
             'Cleaner Vasiliy is cleaning hall number 3.\n'
         )
