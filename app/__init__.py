@@ -1,1 +1,1 @@
-"""Cinema visit application package."""
+"""App package."""

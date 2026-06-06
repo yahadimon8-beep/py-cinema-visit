@@ -16,7 +16,7 @@ package create modules:
    and `customer` - `Customer` instance, that means customer.
    The `sell_product` method sells a product to the customer and displays which product was sold and to whom.
    
-   
+   а
    ```python
    cb = CinemaBar()
    customer = Customer("Bob", "popcorn")
