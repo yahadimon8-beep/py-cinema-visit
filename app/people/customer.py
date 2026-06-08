@@ -8,4 +8,4 @@ class Customer:
 
     def watch_movie(self, movie: str) -> None:
         """Print that the customer is watching a movie."""
-        print(f'{self.name} is watching "{movie}".')
+        print(f"{self.name} is watching {movie}.")
