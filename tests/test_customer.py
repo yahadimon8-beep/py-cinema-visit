@@ -34,6 +34,7 @@ def test_customer_watch_movie():
 
     out = f.getvalue()
     output = 'Bob is watching "Matrix".\n'
-    assert out == output
-    f"when customers name is '{name} and movie is {movie}"
+    assert out == output, (
     f"'watch_movie' output should equal to {output}, "
+    f"when customer's name is '{name} and movie is {movie}"
+)
