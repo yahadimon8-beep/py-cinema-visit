@@ -37,8 +37,8 @@ def test_cinema_hall_movie_session():
 
     out = f.getvalue()
     output = '"I\'m Robot" started in hall number 4.\n' \
-             'Max is watching I\'m Robot.\n' \
-             'Alex is watching I\'m Robot.\n' \
+             'Max is watching "I\'m Robot".\n' \
+             'Alex is watching "I\'m Robot".\n' \
              '"I\'m Robot" ended.\n' \
              'Cleaner John is cleaning hall number 4.\n'
     assert out == output, (
